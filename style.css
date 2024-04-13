@@ -1,0 +1,8 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
